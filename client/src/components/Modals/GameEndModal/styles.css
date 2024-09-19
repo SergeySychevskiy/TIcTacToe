@@ -1,0 +1,14 @@
+.game-end-modal .ant-modal-title,
+.game-end-modal .ant-modal-content {
+  background-color: #8c1291;
+  color: white;
+}
+
+.game-end-modal .ant-modal-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.game-end-modal .ant-modal-content {
+  text-align: center;
+}

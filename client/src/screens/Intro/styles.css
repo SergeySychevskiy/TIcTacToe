@@ -1,0 +1,12 @@
+.intro-screen {
+  text-align: center;
+}
+
+.intro-text {
+  line-height: 1.5;
+}
+
+.intro-button:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-out;
+}
